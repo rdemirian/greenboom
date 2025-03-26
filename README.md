@@ -1,12 +1,4 @@
-# 💣 boom.sh
-
-> _Fake it 'til you burnout._
-
----
-
-## 🧠 What is this?
-
-## 🕵️‍♂️ Real Story: Recruiter Edition
+## 🕵️‍♂️ Real Story
 
 > One time a recruiter messaged me and said:
 >
@@ -22,9 +14,9 @@
 >
 > No follow-up. No interview. Just me, quietly yelling into the void with a `git log`.
 
-That’s when `boom.sh` became more than a joke — it became ✨ **self-defense** ✨.
+That’s when this became more than a joke — it became ✨ **self-defense** ✨.
 
-`boom.sh` is a commit script designed to make your **GitHub profile look like you're dangerously productive**, even if you've spent the last year alternating between existential dread and Doomscrolling™.
+`greenboom` is a commit script designed to make your **GitHub profile look like you're dangerously productive**, even if you've spent the last year alternating between existential dread and Doomscrolling™.
 
 It simulates a long, slow descent into madness via green squares.
 

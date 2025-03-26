@@ -69,6 +69,11 @@ git remote add origin https://github.com/your-username/greenstorm.git
 git branch -M main
 git push -u origin main
 ```
+will probably need to up githubs buffer before pushing if it has a cry and fails
+
+```bash
+git config --global http.postBuffer 524288000
+```
 
 Boom. You now look like a developer who's legally required to touch grass.
 

@@ -93,26 +93,6 @@ Boom. You now look like a developer who's legally required to touch grass.
 
 ---
 
-## 🕵️‍♂️ Real Story: Recruiter Edition
-
-> One time a recruiter messaged me and said:
->
-> “This GitHub profile looks active… but not _real_ active. Do you have a _work_ GitHub account?”
->
-> I told them:
->
-> > "Yeah, I did, but it was owned by my company and got nuked."
->
-> They said:
->
-> > “Hmm. That’s _convenient._”
->
-> No follow-up. No interview. Just me, quietly yelling into the void with a `git log`.
-
-That’s when `boom.sh` became more than a joke — it became ✨ **self-defense** ✨.
-
----
-
 ## 💥 But Some of These Days Are Real
 
 Yes — a lot of this is faked.  
@@ -149,15 +129,6 @@ We're gonna get along just fine. Now let’s talk about that job.
 - Rename it to `not-a-bot.sh` for maximum irony
 - Put it on a USB labeled “Do Not Open” and leave it at a tech meetup
 
----
-
-## 🐸 Meme Mode: Activated
-
-```
-When you're not coding, you're coding.
-When you're sleeping, you're committing.
-When you're job hunting, you're faking it.
-```
 
 ---
 
